@@ -25,3 +25,7 @@ In case anyone needs to run this application locally, the local language model i
    ```bash
    pip install streamlit
    pip install langchain-community
+## How to Run:
+
+```bash
+streamlit run your_script_name.py
