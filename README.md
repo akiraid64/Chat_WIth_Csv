@@ -29,3 +29,16 @@ In case anyone needs to run this application locally, the local language model i
 
 ```bash
 streamlit run vis.py
+```
+
+# Install Dependencies
+
+To set up the required dependencies for this project, follow the steps below:
+
+1. **Navigate to the Project Folder:**
+   Open the command prompt and change your current directory to the location where your project is stored. You can use the `cd` command to navigate to the project folder.
+
+   ```bash
+   cd path\to\your\project
+   ```
+
