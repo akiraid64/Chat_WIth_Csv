@@ -62,5 +62,17 @@ To set up the required dependencies for this project, follow the steps below:
    ```bash
    pip install -r requirements.txt
    ```
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to the development of this project, follow these steps:
+
+1. **Fork the Repository:**
+   Click the "Fork" button at the top right of the repository to create your copy.
+
+2. **Clone your Fork:**
+   Clone your forked repository to your local machine using the following command:
+   ```bash
+   git clone https://github.com/your-username/your-repository.git
+   ```
 
 
