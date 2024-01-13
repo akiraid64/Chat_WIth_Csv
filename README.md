@@ -28,4 +28,4 @@ In case anyone needs to run this application locally, the local language model i
 ## How to Run:
 
 ```bash
-streamlit run your_script_name.py
+streamlit run vis.py
