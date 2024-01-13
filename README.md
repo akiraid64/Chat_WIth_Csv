@@ -41,4 +41,9 @@ To set up the required dependencies for this project, follow the steps below:
    ```bash
    cd path\to\your\project
    ```
+   Once you are in the project folder, use the following command to install the dependencies listed in the requirements.txt file:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
 
