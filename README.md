@@ -9,7 +9,24 @@ This Streamlit application combines a chat interface with data visualization cap
 
 - **Chat Tab:** Upload a CSV file, engage in chat-based interactions, and view the conversation history. The system uses language models for conversational retrieval.
 
-- **Visualize Data Tab:** Explore different chart types, including Line Chart, Clustered Bar Chart, Heatmap, Scatter Plot, Histogram, Box Plot, and Pie Chart. Customize visualizations based on your dataset.
+- **Visualize Data Tab:**
+
+In the "Visualize Data" tab, users can explore different types of visualizations for the uploaded dataset.
+
+**Instructions:**
+1. After uploading the CSV file, select a visualization type from the sidebar.
+2. Configure the visualization parameters (e.g., X-axis, Y-axis, filters) using the provided options.
+3. View the generated visualization on the main panel.
+
+**Available Visualizations:**
+- Line Chart
+- Clustered Bar Chart
+- Heatmap
+- Scatter Plot
+- Histogram
+- Box Plot
+- Pie Chart
+
 
 ## Local Language Model Deployment:
 
